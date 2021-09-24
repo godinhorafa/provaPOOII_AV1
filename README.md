@@ -1,4 +1,4 @@
-# Primeira Avaliação da disciplina de Programação Orientada a Objeto II
+# Avaliação 1 da disciplina de Programação Orientada a Objeto II
 
 1) Crie uma classe com os atributos produto, preço, quantidade), Crie os métodos
 getters e setters. Crie validação para não aceitar nome em branco, preco e
